@@ -1,4 +1,4 @@
-### <h1 align="center"> Projeto Final </h1>
+### <h1 align="center"> Projeto de Análise de Dados, Dashboards Interativos e Recomendação de Produtos </h1>
 
 
 
@@ -6,8 +6,9 @@
 
  ![image](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/a6d60248-8762-4726-990c-104b8727f33d)
 
+<br>
 
-## <h1 align="center"> Descrição do Projeto </h1>
+## Descrição do Projeto </h1>
 Este projeto tem como objetivo realizar a limpeza e preparação dos dados, explorar os dados por meio de análises exploratórias, criar dashboards interativos e desenvolver um sistema de recomendação de produtos para clientes antigos utilizando técnicas de aprendizado de máquina
 
 ## Tecnologia
@@ -22,7 +23,7 @@ Os softwares utilizados neste projeto foram:
 * Github
 
 
-# Bibliotecas Python
+## Bibliotecas Python
 * Pandas
 * Numpy
 * Regex
@@ -33,10 +34,14 @@ Os softwares utilizados neste projeto foram:
 
 ### 1 - Primeiro Dashboard feito no Power BI
 ![1](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/fe383eca-e231-43e2-9c15-69b15b23933a)
+
 No primeiro dashboard, no canto direito, criei um menu interativo que permite navegar para os outros dashboards. Na parte superior, há um gráfico estilo treemap que exibe os produtos mais vendidos e o número de vendas de cada produto. Na parte inferior do dashboard, apresenta um gráfico de linhas que mostra a quantidade de produtos vendidos e o faturamento mensal, mês a mês. Ambos os gráficos, o treemap e o de linhas, são interativos. Ao clicar em um produto específico no treemap, o gráfico de linhas é atualizado para exibir informações relacionadas a esse produto.
+
+
 
 ### 2 - Dashboard de Desempenho de Vendas por Produto por Mês
 ![2](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/e56f8e2b-0dc1-4140-9687-e3c90c99eadc)
+
 Este segundo dashboard, acessível através de um menu localizado no lado esquerdo, apresenta uma visualização detalhada da quantidade de produtos vendidos e seus respectivos faturamentos, mensalmente.
 
 Nesse dashboard, você encontrará:
@@ -47,8 +52,10 @@ Nesse dashboard, você encontrará:
 * Essa visualização mensal dos dados de vendas e faturamentos é útil para identificar padrões sazonais, variações e oportunidades de otimização das vendas. O dashboard proporciona uma análise mais aprofundada do desempenho de cada produto ao longo do tempo.
 
 
+
 ### 3 - Dashboard de Desempenho de Vendas por Produto por Ano
 ![3](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/56aba318-e750-4c97-a918-8dec7e1fa227)
+
 Este terceiro dashboard, acessível por meio de um menu no lado esquerdo, oferece uma análise detalhada por ano da quantidade de produtos vendidos e do faturamento correspondente.
 
 No dashboard, você encontrará:
@@ -58,8 +65,10 @@ No dashboard, você encontrará:
 * Um gráfico que representa o faturamento anual.
 
 
+
 ### 4 - Dashboard de Recomendação de Produtos para Clientes que já realizaram Compras
 ![4](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/2fbcb04f-f951-441e-b315-4a7fbb7c0154)
+
 O quarto dashboard apresenta um menu localizado no lado esquerdo superior, contendo o nome dos antigos clientes. Logo abaixo, há uma tabela que exibe os produtos que cada cliente já comprou anteriormente. No lado direito do dashboard, encontra-se um gráfico de barras que representa os produtos recomendados para cada cliente individualmente, sendo que a altura de cada barra indica a probabilidade de a cliente comprar o respectivo produto.
 
 Principais elementos do dashboard:
@@ -70,8 +79,11 @@ Principais elementos do dashboard:
 * Gráfico de barras de recomendação: O gráfico mostra os produtos recomendados para o cliente, com cada barra representando a probabilidade de compra. Quanto maior a porcentagem associada a cada produto, maior a probabilidade de a cliente adquiri-lo.
 Esse dashboard de recomendação de produtos para clientes antigos visa auxiliar nas estratégias de marketing e vendas, fornecendo informações valiosas sobre os produtos mais propensos a serem adquiridos por cada cliente individualmente.
 
+
+
 ### 5 - Dashboard de Análise dos Valores Médios de Frete e Valor Médio dos Pedidos por Estado
 ![5](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/e2f7fc8b-cadd-491a-bae3-f17962e1760a)
+
 No último dashboard, são apresentadas informações sobre os valores médios de frete e o valor médio por pedido para cada estado.
 
 Recursos do dashboard:
