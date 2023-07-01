@@ -4,7 +4,7 @@
 
 
 
- ![image](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/a6d60248-8762-4726-990c-104b8727f33d)
+ ![543b64e9-2e37-46ac-9930-f4d0df628c54](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/3aa1386d-598a-44c8-a2d4-cef5113a8797)
 
 <br>
 
@@ -33,14 +33,14 @@ Os softwares utilizados neste projeto foram:
 ## Informações do Projeto:
 
 ### 1 - Primeiro Dashboard feito no Power BI
-![1](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/fe383eca-e231-43e2-9c15-69b15b23933a)
+![1](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/a3bb16e0-fe95-4c88-80cd-17b1cbc3a366)
 
 No primeiro dashboard, no canto direito, criei um menu interativo que permite navegar para os outros dashboards. Na parte superior, há um gráfico estilo treemap que exibe os produtos mais vendidos e o número de vendas de cada produto. Na parte inferior do dashboard, apresenta um gráfico de linhas que mostra a quantidade de produtos vendidos e o faturamento mensal, mês a mês. Ambos os gráficos, o treemap e o de linhas, são interativos. Ao clicar em um produto específico no treemap, o gráfico de linhas é atualizado para exibir informações relacionadas a esse produto.
 
 
 
 ### 2 - Dashboard de Desempenho de Vendas por Produto por Mês
-![2](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/e56f8e2b-0dc1-4140-9687-e3c90c99eadc)
+![2](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/7c2a351c-59ba-4308-bc40-35da08f8d00c)
 
 Este segundo dashboard, acessível através de um menu localizado no lado esquerdo, apresenta uma visualização detalhada da quantidade de produtos vendidos e seus respectivos faturamentos, mensalmente.
 
@@ -54,7 +54,7 @@ Nesse dashboard, você encontrará:
 
 
 ### 3 - Dashboard de Desempenho de Vendas por Produto por Ano
-![3](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/56aba318-e750-4c97-a918-8dec7e1fa227)
+![3](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/3a51940b-d243-4a4a-9d8e-40a6616ae965)
 
 Este terceiro dashboard, acessível por meio de um menu no lado esquerdo, oferece uma análise detalhada por ano da quantidade de produtos vendidos e do faturamento correspondente.
 
@@ -67,7 +67,7 @@ No dashboard, você encontrará:
 
 
 ### 4 - Dashboard de Recomendação de Produtos para Clientes que já realizaram Compras
-![4](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/2fbcb04f-f951-441e-b315-4a7fbb7c0154)
+![4](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/34261aad-9d89-4507-89df-12d4761b3244)
 
 O quarto dashboard apresenta um menu localizado no lado esquerdo superior, contendo o nome dos antigos clientes. Logo abaixo, há uma tabela que exibe os produtos que cada cliente já comprou anteriormente. No lado direito do dashboard, encontra-se um gráfico de barras que representa os produtos recomendados para cada cliente individualmente, sendo que a altura de cada barra indica a probabilidade de a cliente comprar o respectivo produto.
 
@@ -82,7 +82,7 @@ Esse dashboard de recomendação de produtos para clientes antigos visa auxiliar
 
 
 ### 5 - Dashboard de Análise dos Valores Médios de Frete e Valor Médio dos Pedidos por Estado
-![5](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/e2f7fc8b-cadd-491a-bae3-f17962e1760a)
+![5](https://github.com/bonfimdoprado/Projeto-Final/assets/119675645/aca014c9-bcfe-4402-b866-bc09254dbe73)
 
 No último dashboard, são apresentadas informações sobre os valores médios de frete e o valor médio por pedido para cada estado.
 
