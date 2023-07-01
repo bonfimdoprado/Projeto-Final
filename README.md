@@ -9,7 +9,7 @@
 <br>
 
 ## Descrição do Projeto </h1>
-Este projeto tem como objetivo realizar a limpeza e preparação dos dados, explorar os dados por meio de análises exploratórias, criar dashboards interativos e desenvolver um sistema de recomendação de produtos para clientes antigos utilizando técnicas de aprendizado de máquina
+Este projeto tem como objetivo realizar a limpeza e preparação dos dados, explorar os dados por meio de análises exploratórias, criar dashboards interativos e desenvolver um sistema de recomendação de produtos para clientes antigos utilizando técnicas de aprendizado de máquina.
 
 ## Tecnologia
 Os softwares utilizados neste projeto foram:
