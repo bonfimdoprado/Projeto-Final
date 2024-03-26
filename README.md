@@ -9,7 +9,7 @@
 <br>
 
 ## Descrição do Projeto </h1>
-Este projeto visa extrair, tratar e analisar dados para a criação de um banco de dados, bem como desenvolver um dashboard para uma análise gerencial das vendas efetuadas no marketplace ELO7. Além disso, a implementação do banco de dados proporcionará à empresa a oportunidade de utilizar os dados em suas campanhas de marketing, ampliando assim sua eficácia e alcance.
+Este projeto tem como objetivo realizar a limpeza e preparação dos dados, explorar os dados por meio de análises exploratórias, criar dashboards interativos e desenvolver um sistema de recomendação de produtos para clientes antigos utilizando técnicas de aprendizado de máquina.
 
 ## Tecnologia
 Os softwares utilizados neste projeto foram:
